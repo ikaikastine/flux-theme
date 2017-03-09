@@ -30,6 +30,7 @@ exports.decorateConfig = (config) => {
       cyan,
       green,
       orange,
+      magenta,
       red,
       yellow,
       white,
