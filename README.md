@@ -1,6 +1,6 @@
 # Flat UX (FLUX) Syntax Theme
 
-A flat user experience syntax theme for use with Atom.
+A flat user experience syntax theme for use with [Atom](https://atom.io/).
 
 ![Flux](https://github.com/ikaikastine/flux-syntax/blob/master/Screenshot.png)
 
