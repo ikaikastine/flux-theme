@@ -1,4 +1,4 @@
-# Flat UX (FLUX) syntax theme
+# Flat UX (FLUX) Syntax Theme
 
 A flat user experience syntax theme for use with Atom.
 
