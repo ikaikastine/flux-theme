@@ -1,4 +1,4 @@
-# Flat UX (FLUX) Syntax Theme
+# Flat UX Syntax Theme
 
 A flat user experience syntax theme for use with [Atom](https://atom.io/).
 
@@ -14,5 +14,5 @@ Cyan        | #90ffef
 Blue        | #90d8ff
 Purple      | #bd93f9
 Green       | #50fa7b
-Red         | #fa7b50 
+Red         | #fa7b50
 orange      | #fad050
