@@ -2,4 +2,17 @@
 
 A flat user experience syntax theme for use with Atom.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Flux](https://github.com/ikaikastine/flux-syntax/blob/master/Screenshot.png)
+
+## Color Palette
+
+Palette     | Hex     | Color
+---         | ---     | ---
+Background  | #353845 |
+Foreground  | #FFFFFF |
+Cyan        | #90ffef |
+Blue        | #90d8ff |
+Purple      | #bd93f9 |
+Green       | #50fa7b |
+Red         | #fa7b50 |
+orange      | #fad050 |
