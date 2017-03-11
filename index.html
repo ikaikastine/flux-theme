@@ -6,15 +6,44 @@
   <meta name="decription" content="A dark flat UX theme for Atom, Hyperterm">
   <title>Flux UX - A dark flat UX theme</title>
 
-  <link rel="stylesheet" href="style.css" type="text/css">
+  <!-- Stylesheet Links -->
+  <script src="https://use.fontawesome.com/5a9c64ebdf.js"></script>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css" type="text/css" >
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Patua+One" rel="stylesheet">
+  <link rel="stylesheet" href="./assets/css/style.css" type="text/css">
 </head>
 
 <body>
-  <div class="container-fluid">
-    <header class="header">
-      <h1 class="title">Flux UX</h1>
-    </header>
-
-
+  <div class="container">
+    <div id="main">
+      <header class="header">
+        <h1 class="title">Flux UX</h1>
+        <h2 class="sub-title">A dark Flat UX Theme</h2>
+      </header>
+      <main>
+        <div class="row">
+          <a href="./hyper/" class="app">
+      			<span class="app-icon">
+      				<img src="./assets/icons/Hyper-Mark.png" height="150" alt="Hyper">
+      			</span>
+      			<h3 class="app-title">Hyper</h3>
+      		</a>
+          <a href="./atom/" class="app">
+      			<span class="app-icon">
+      				<img src="./assets/icons/Atom.png" height="150" alt="Atom">
+      			</span>
+      			<h3 class="app-title">Atom</h3>
+      		</a>
+        </div>
+      </main>
+    </div>
   </div>
+
+  <div id="footer">
+    <p>
+      <i class="fa fa-code" aria-hidden="true"></i> with <i class="fa fa-heart" aria-hidden="true"></i> by <a class="cyan" href="github.com/ikaikastine">Kevin Stine</a>
+    </p>
+  </div>
+
 </body>

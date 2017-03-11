@@ -1,4 +1,4 @@
-# Flat UX Theme 
+# Flat UX Theme
 
 ## Installation
 
@@ -17,4 +17,4 @@ Blue        | #90d8ff
 Purple      | #bd93f9
 Green       | #50fa7b
 Red         | #fa7b50
-orange      | #fad050
+Orange      | #fad050
