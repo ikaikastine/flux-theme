@@ -20,6 +20,12 @@ body {
 	margin: -30px 0 30px;
 }
 
+.header-title{
+  display: block;
+  align-items: center;
+  justify-content: center;
+}
+
 .title {
   margin: 0;
   text-align: center;
@@ -42,12 +48,23 @@ body {
   flex-grow: 1;
 }
 
+.app:active {
+  text-decoration: none;
+  outline: none;
+}
+
+.app:focus {
+  outline: none;
+}
+
+
 .app-icon {
 	height: 205px;
 	display: block;
 	display: flex;
 	align-items: center;
   justify-content: center;
+  text-decoration: none;
 }
 
 .app-icon img {
